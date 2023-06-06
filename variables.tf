@@ -25,7 +25,7 @@ variable "sg_name" {
 #ec2 instance variables
 
 variable "ami" {
-    default = "ami-0393ee318b08f4511"
+    default = "ami-0e0e5a7f0eab01865"
 }
 
 variable "instance_type" {
